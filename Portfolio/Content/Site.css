@@ -1,0 +1,43 @@
+﻿body.home.about{
+    background-color: #d4e769;
+    background-size:100%;
+    
+}
+
+.sitebackground{
+    background-color: #d4e769;
+    background-size:100%;
+    padding-left:25px;
+    
+}
+body.homepage{
+    background: url('../Scripts/images/488419.jpg') repeat no-repeat;
+    background-size:cover; 
+    padding-top:20px;
+
+   
+}
+nav.navbar{
+    padding-left:20px;
+}
+
+div.spacer{
+
+    height:200px;
+}
+div.spacer1{
+    height:75px;
+}
+div.intro{
+  font-family: 'Merienda', cursive;
+  color:black;
+}
+ul.nav.nav-pills a {
+    background-color: transparent;
+    font-family: 'Merienda', cursive;
+    padding-left: 5px;
+    background-color: #1d3503;
+    color: #f5f9ac;
+    outline-color: black;
+}
+ 
